@@ -1,0 +1,29 @@
+body
+{
+	background-color: whitesmoke;
+}
+#table
+{
+	font-size:2em;
+	font-family:arial;
+	text-align: center;
+	margin-top: 2em;
+}
+#t1
+{
+	margin: 2em 23em;
+	border: 1px solid white;
+}
+#t1 th
+{
+	padding-left: 0em;
+	text-align: center;
+	width: 10em;
+	border: 1px solid black;
+}
+#t1 td
+{
+	text-align: center;
+	padding: 0.5em 0.5em;
+	border: 1px solid grey;
+}

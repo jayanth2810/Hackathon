@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HfreePay</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_shop">Shop</string>
+    <string name="title_activity_payment">Payment</string>
+    <string name="title_activity_pay">Pay</string>
+    <string name="title_activity_paym">Paym</string>
+
+</resources>
